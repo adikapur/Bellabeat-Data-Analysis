@@ -90,6 +90,6 @@ Understanding the relationship between steps, activity levels, and calorie burn 
 
 By understanding these trends and strategically applying them to Bellabeat's products and marketing, the company can enhance user experience, optimize fitness strategies, and better connect with its customer base.
 
-[MYSQL can be found here](Bellabeat Data analysis.sql)
+[MYSQL Script can be found here](Bellabeat Data analysis.sql)
 
 
