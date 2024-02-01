@@ -11,7 +11,6 @@ Our task, assigned by our fictional character Sršen at Bellabeat, revolves arou
 ## Key tools used to perform this analysis: MYSQL,Excel,Tableau
 
 ![Alt text](Dashboard bellabeat.png)
-# Calorie Burn Analysis
 
 # Calorie Burn Analysis
 
